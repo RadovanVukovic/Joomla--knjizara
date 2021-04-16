@@ -1,0 +1,16 @@
+#
+#<?php die("Forbidden."); ?>
+
+2020-04-09 16:17:24 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:18:18 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:18:27 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:18:45 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:21:39 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:21:54 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:22:17 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 16:23:13 ERROR vmError: The parameter &lt;em&gt;Merchant e-mail&lt;/em&gt; is required for the payment &lt;em&gt;Placanje pri dostavi&lt;/em&gt; (&lt;em&gt;  1&lt;/em&gt;)
+2020-04-09 16:24:04 ERROR vmError: The parameter &lt;em&gt;Merchant e-mail&lt;/em&gt; is required for the payment &lt;em&gt;Placanje pri dostavi&lt;/em&gt; (&lt;em&gt;  1&lt;/em&gt;)
+2020-04-09 16:24:08 ERROR vmError: The parameter &lt;em&gt;Merchant e-mail&lt;/em&gt; is required for the payment &lt;em&gt;Placanje pri dostavi&lt;/em&gt; (&lt;em&gt;  1&lt;/em&gt;)
+2020-04-09 17:02:25 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 17:19:45 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2020-04-09 17:23:00 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/joomla/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
